@@ -6,7 +6,7 @@ It applies for the tool (SFM) and the engine branch
 
 - A custom bot implementation so people can make the reports directly on SFM without needing to sign up onto GitHub
 
-- Labels for the issues tab (e.g enhancements,bug,additions. etc.)
+- Custom labels 
 
 
 # Conduct
